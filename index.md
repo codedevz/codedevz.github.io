@@ -35,3 +35,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<!-- Default Statcounter code for codedevz.github.io
+https://codedevz.github.io -->
+<script type="text/javascript">
+var sc_project=12503904; 
+var sc_invisible=1; 
+var sc_security="d6b182a7"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12503904/0/d6b182a7/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
